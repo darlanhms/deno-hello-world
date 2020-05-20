@@ -19,8 +19,8 @@ export const getUsers = ():Promise<user[]> => {
             resolve(users);
         }).catch(err => {
             reject(err);
-        })
-    })
+        });
+    });
 }
 
 export default users;
