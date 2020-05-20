@@ -1,8 +1,8 @@
-<br>
+# Web API em Deno
 
-# Web API que tem apenas uma collection de users
+### Feita com Expressive + Mongo
 
-### Feito em Deno + Expressive + Mongo
+Por enquanto há apenas uma collection "Users"
 
 Para iniciar basta executar
 
